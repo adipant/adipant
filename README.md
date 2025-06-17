@@ -54,10 +54,10 @@
 ### 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://portfolio.example.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=flat&logo=firefox-browser&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+<!--   <a href="https://portfolio.example.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=flat&logo=firefox-browser&logoColor=white" /></a> -->
+  <a href="https://linkedin.com/in/adipantsde" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/AdityaPant15" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:adityapant2018@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
