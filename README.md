@@ -37,6 +37,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
+---
+
 ### 🌍 Connect With Me
 
 <p align="center">
