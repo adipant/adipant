@@ -9,7 +9,7 @@
 
 ### 💻 About Me
 
-- 🔭 I’m currently working on: **[Project Name]**
+- 🔭 I’m currently working on: **E-commerce Application**
 - 🌱 I’m currently learning: **TypeScript | React Native | Next.js**
 - 💬 Ask me about: **HTML, CSS, JavaScript, React**
 - 📫 How to reach me: **adityapant2018@gmail.com**
